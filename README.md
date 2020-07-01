@@ -1,5 +1,7 @@
 # esx_realweapons SCRIPTING for FIVEMTURK
 
+https://www.fivemturk.com/threads/paylasim-esx-karakterin-uzerinde-gorunen-silahlar.12873/
+
 ## Gerekli Script
 
 - es_extended
